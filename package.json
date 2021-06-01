@@ -1,17 +1,17 @@
 {
-  "name": "t-get",
+  "name": "tor-dl-developeranaz-build.1.0.0",
   "version": "2.2.0",
-  "description": "tget is wget for torrents",
+  "description": "I change this name because some cloud provider giving ban while installing tget",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jeffjose/tget.git"
+    "url": "git+https://github.com/pingme998/tget.git"
   },
   "bin": {
-    "tget": "./app.js"
+    "tor-dl-developeranaz-build.1.0.0": "./app.js"
   },
   "author": "Jeffrey Jose <jeffjosejeff@gmail.com>",
   "homepage": "https://github.com/jeffjose/tget#readme",
